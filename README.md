@@ -1,8 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yhb-flydream&show_icons=true&icon_color=805AD5&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 > I'm YaoHeBin
 
-![Elan Bin's github stats](https://github-readme-stats.vercel.app/api?username=yhb-flydream)
+🔗 https://yhb-flydream.github.io/
 
 <!--
 **yhb-flydream/yhb-flydream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
